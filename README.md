@@ -10,6 +10,7 @@ My Meal Planner – remembers your preferences, learns from feedback, and create
 ### Motivation
 Built from real hostel mess pain – no more random dal-chawal, no more budget overshoot, no more "bhai aaj biryani kar le" drama.
 One message → perfect desi thali ready, every week.
+
 Simple. Personal. Truly Indian.
 
 ### Features
