@@ -19,7 +19,7 @@ Simple. Personal. Truly Indian.
 - Personalized for Indian mess/hostel/PG life
 - Health goals + allergies + budget aware
 
-### How to Run (Demo Video Attached)
+### How to Run
 
 ```bash
 pip install -r requirements.txt
