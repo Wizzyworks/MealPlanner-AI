@@ -1,0 +1,7 @@
+streamlit
+requests
+google-adk
+google-generativeai
+python-dotenv
+fastapi
+uvicorn
