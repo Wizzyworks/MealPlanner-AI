@@ -20,7 +20,19 @@ Simple. Personal. Truly Indian.
 - Health goals + allergies + budget aware
 
 ### How to Run
-
+Setup Python Environment (using pyenv):
+Install pyenv if not already. Then create and activate a virtual environment with Python 3.10:
+```bash
+pyenv install 3.10.0
+pyenv virtualenv 3.10.0 meal-planner-env
+pyenv activate meal-planner-env
+```
+Create .env File:
+Generate your Gemini API key from Google AI Studio. Create a .env file in the root directory and add:
+```bash
+GEMINI_API_KEY=your_generated_key_here
+```
+Install Dependencies & Run the Agent:
 ```bash
 pip install -r requirements.txt
 
